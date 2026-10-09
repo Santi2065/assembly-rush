@@ -135,6 +135,6 @@ Thanks to the ITBA Computer Society for organizing the game jam. The `TextMesh P
   title        = {Assembly Rush: A Puzzle-to-Runner Game Made in a Weekend Game Jam},
   year         = {2023},
   howpublished = {ITBA Computer Society Game Jam 2023},
-  url          = {https://github.com/Santi2065/ITBA-ComputerSociety-GameJam-2023}
+  url          = {https://github.com/Santi2065/assembly-rush}
 }
 ```
